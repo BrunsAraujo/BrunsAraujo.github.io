@@ -21,13 +21,13 @@
 title: Bruno Araujo Portfolio
 email: bruno.correadearaujo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-          Hi! I'm Bruno Araujo, a software developer in training, specializing
-          in software development in JavaScript, React, HTML, Java, and
-          SpringBoot. Explore my projects and get to know more about my work!
+  Hi! I'm Bruno Araujo, a software developer in training, specializing
+  in software development in JavaScript, React, HTML, Java, and
+  SpringBoot. Explore my projects and get to know more about my work!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: "@CorrAraujoBruno
-github_username:  BrunsAraujo
+twitter_username: "@CorrAraujoBruno"
+github_username: BrunsAraujo
 
 # Build settings
 theme: minima
