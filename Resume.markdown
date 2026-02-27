@@ -1,13 +1,12 @@
 ---
-layout: page
+layout: default
 title: Resume
 permalink: /about/resume/
 ---
 
-## Resume
+## <a href="https://docs.google.com/document/d/1gpmaHUqXseNfDfDfoG129EiZtLtTMUOSnzuXAaWBOjE/edit?usp=sharing">{{ page.title | escape}}</a>
 
-Bruno Araujo  
-www.linkedin.com/in/BrunoAraujo www.github.com/BrunsAraujo
+Bruno Araujo
 
 SUMMARY
 I am a resilient professional transitioning from law and insurance into software engineering, bringing with me a foundation of analytical precision, clear communication, and problem-solving persistence. My background as a paralegal and insurance adjuster sharpened my ability to break down complex information, negotiate outcomes, and document with accuracy. Skills I now apply to debugging, writing clean code, and building reliable applications.
