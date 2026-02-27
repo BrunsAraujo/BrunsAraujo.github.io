@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+## ABOUT
+
 I am excited in where I am in developping my skills as a junior Software Engineer with LaunchCode. As someone who is deeply motivated by expanding access to opportunity and using technology to create meaningful social impact, I am inspired by LaunchCode’s mission to open doors for aspiring technologists from all backgrounds. Your commitment to removing barriers and building pathways into tech aligns strongly with my own values and the kind of work I want to contribute to every day.
 
 Before transitioning into software development, I worked as a claims adjuster and paralegal. These roles demanded exceptional attention to detail, strong communication skills, and the ability to adapt quickly to evolving technology and processes. I routinely served as a liaison between claimants, clients, attorneys, and internal teams, ensuring clarity, accuracy, and empathy in every interaction. These experiences strengthened my ability to analyze complex information, troubleshoot issues under pressure, and collaborate across departments. I believe that all these skills translate directly into building reliable, user‑focused software.

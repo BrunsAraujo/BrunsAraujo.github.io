@@ -15,6 +15,7 @@ Driven by curiosity and persistence, I am building expertise in Java, React, jav
 
 LANGUAGES | FRAMEWORKS | TOOLS
 Java, JavaScript and React,
+
 EXPERIENCE
 Project Name — LaunchCode Capstone Project
 Turn-HERE! - Day trip itineraries. Turn-HERE!
@@ -23,6 +24,7 @@ Implemented TripSaver feature allowing logged-in users to save trips and share f
 Designed responsive, brand-first UI with playful animations, collapsible navigation, and smooth scroll itineraries.
 Full Project Tech Stack: React, React Router, JavaScript (ES6+), JSX, CSS3, HTML5, Node.js, Vite, npm, useState, useRef, useParams, Math.random, Regex (for validation), StrictMode, createRoot, Flexbox, Responsive Breakpoints, SEO meta tags, Favicon, Git, GitHub
 Job Title — Progressive Insurance
+
 February 2024 - February 2025
 Auto adjuster handling auto damage claims
 Strong customer service skills
@@ -31,6 +33,7 @@ Strong attention to detail, while documenting and settling claims
 Managed claim systems and adapted to new tools quickly which shows readiness to learn IDEs, frameworks, and debugging tools.
 Persistent in resolving issues under pressure which I believe is essential for software testing and bug fixing
 Job Title — Stein Sperling Bennet De Jong Driscoll, P.C.
+
 August 2013 - January 2023
 Paralegal handling auto injury claims.
 Investigated and analyzed complex auto injury claims which parallels debugging and breaking down technical problems.
@@ -39,7 +42,8 @@ Drafted legal documents and demand letters with accuracy which translates to wri
 Experienced in organizing case files which mirrors structuring projects and maintaining version control.
 Liaised between attorneys, clients, and insurance companies which is similar to working across teams in agile development.
 Balanced multiple cases simultaneously which demonstrates ability to manage projects, deadlines, and sprints.
+
 EDUCATION
 LaunchCode, Course Focus on Java, JavaScript and React, Year of Graduation 2026
-College Name,
+
 Howard University School of Law, LLM, Year of Graduation 2012.
