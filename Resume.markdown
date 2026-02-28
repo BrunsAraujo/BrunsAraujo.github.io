@@ -14,7 +14,7 @@ Fluent in Portuguese and Spanish, I thrive in multicultural environments and bri
 Driven by curiosity and persistence, I am building expertise in Java, React, javaScript, and SQL with a vision to grow into a junior software developer role who bridges technical logic with human-centered design. My goal is to craft software that not only works seamlessly but also tells a story, connects people, and reflects diverse identities.
 
 LANGUAGES | FRAMEWORKS | TOOLS
-Java, JavaScript and React,
+Java, JavaScript, React, SQL, SpringBoot, MySQL, VS Code, Postman, GitHub, Git.
 
 EXPERIENCE
 Project Name — LaunchCode Capstone Project
