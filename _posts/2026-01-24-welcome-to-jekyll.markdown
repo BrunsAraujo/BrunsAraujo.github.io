@@ -1,31 +1,16 @@
 ---
-layout: default
-title: "Welcome to Jekyll!"
-date: 2026-01-24 01:41:41 -0600
-categories: jekyll update
-permalink: /home/
+layout: post
+title: "Starting My Developer Journey"
+date: 2026-01-24
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Building this portfolio marks an important milestone in my transition into software development. After years of working in law and insurance, I discovered how much I enjoy solving problems through code, designing clean systems, and building tools that make people’s lives easier.
 
-Jekyll requires blog post files to be named according to the following format:
+This site will serve as a place to document my growth as a developer. I’ll be sharing:
 
-`YEAR-MONTH-DAY-title.MARKUP`
+- Projects I’m building in Java, Spring Boot, SQL, JavaScript, and React
+- Lessons learned from debugging, refactoring, and architecting clean code
+- Reflections on my journey through LaunchCode and beyond
+- Ideas I want to explore as I grow into backend engineering
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+I’m excited to continue improving, learning new technologies, and building software that is reliable, maintainable, and meaningful. Thanks for stopping by — more posts and projects are on the way.
