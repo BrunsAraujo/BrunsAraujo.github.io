@@ -6,12 +6,12 @@ permalink: /about/contact/
 
 ## Email
 
-Contact me via Email "bruno.correadearaujo@hotmail.com
+[bruno.correadearaujo@hotmail.com](mailto:bruno.correadearaujo@hotmail.com)
 
 ## LinkedIn
 
-Connect with me on LinkedIn: [Bruno Araujo] (www.linkedin.com/in/bruno-araujo-ab1091137)
+[Bruno Araujo](https://www.linkedin.com/in/bruno-araujo-ab1091137)
 
 ## GitHub
 
-Contact me on GitHub using BrunsAraujo
+[BrunsAraujo](https://github.com/BrunsAraujo)
